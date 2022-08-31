@@ -7,34 +7,21 @@ export const config = {
     APP_ID: "wxfa05883a480aa6b4",
 
     // 公众号APP_SECRET
-    APP_SECRET: "3d87a1d6a9152a22e0af418a3571503c
+    APP_SECRET: "3d87a1d6a9152a22e0af418a3571503c"
 ",
 
     // 模板消息id
     TEMPLATE_ID: "HpOvSJCK8uL0TGqhWYYZ56ZGgANuRVZnsmvX_lcYmvQ",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-    CALLBACK_TEMPLATE_ID: "xxxxxxxxxxxxx-y你懂的,填错狗头打烂VRMpu",
+    CALLBACK_TEMPLATE_ID: "oHfqZ6HfaOV1of93WZxXFHaN3BtY",
 
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
     // [{
     //   name: "张三",
-    //   id: ["oHfqZ6IZS4yVi47dlwtLebvrIpIo"]
+    //   id: "oHfqZ6IZS4yVi47dlwtLebvrIpIo"
     // },
     // {
-    //   name: "李四",
-    //   id: ""
-    // }]
-    USERS: [
-      {name: '老婆0', id: "1hxOO6VskYv0Kuf-y你懂的,填错狗头打烂VRMpuXhk"}, 
-      {name: '老婆1', id: "2hxOO6VskYv0Kuf-y你懂的,填错狗头打烂RMpuXhk"}, 
-      {name: '老婆2', id: "3hxOO6VskYv0Kuf-yw你懂的,填错狗头打烂2RMpuXhk"}, 
-      {name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
-    ],
-    // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
-    CALLBACK_USERS: [
-      {name: '自己',id: "5hxOO6VskYv你懂的,填错狗头打烂-ywIZVRMpuXhk"}, 
-    ],
      
     /**
      * 信息配置
