@@ -23,7 +23,7 @@ export const config = {
     // },
     // {
     //   name: "李四",
-    //   id: "wxafasdasdd-zxfvsdfd"
+    //   id: ""
     // }]
     USERS: [
       {name: '老婆0', id: "1hxOO6VskYv0Kuf-y你懂的,填错狗头打烂VRMpuXhk"}, 
